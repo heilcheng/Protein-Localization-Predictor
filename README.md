@@ -15,6 +15,6 @@ This project uses Python and scikit-learn to predict the subcellular localizatio
 2. Replace the protein IDs and their localizations in `ProteinLocalizationPredictor.py` with your data. The current protein IDs in the script are `"NP_035357.1"`, `"NP_000207.1"`, and `"NP_112445.1"`, and their corresponding localizations are `"cytoplasm"`, `"nucleus"`, and `"mitochondrion"`.
 
 3. Run `ProteinLocalizationPredictor.py`:
-
+ 
 ```bash
 python3 ProteinLocalizationPredictor.py
